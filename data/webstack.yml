@@ -1,4 +1,28 @@
 ---
+- taxonomy: 技术周刊
+  icon: far fa-star
+  links:
+    - title: 科技爱好者周刊
+      logo: https://avatars.githubusercontent.com/u/905434?s=48&v=4
+      url: https://github.com/ruanyf/weekly
+      description: 记录每周值得分享的科技内容，周五发布。
+    - title: MDH Weekly
+      logo: https://img.alicdn.com/imgextra/i3/O1CN01uKTVpD1UK8BCxFBwo_!!6000000002498-2-tps-500-500.png
+      url: https://github.com/ruanyf/weekly
+      description: MDH Weekly 前端周刊，每周一上午 9 点发布。
+    - title: 潮流周刊
+      logo: https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png
+      url: https://weekly.tw93.fun/
+      description: 记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注。
+    - title: 前端精读周刊
+      logo: https://avatars.githubusercontent.com/u/7970947?s=48&v=4
+      url: https://github.com/ascoders/weekly
+      description: 前端精读周刊。帮你理解最前沿、实用的技术。
+    - title: Web 技术周刊
+      logo: https://avatars.githubusercontent.com/u/2378632?s=48&v=4
+      url: https://www.yuque.com/zenany/fe_weekly
+      description: 将日常看到的好东西汇总起来，以备需要时查阅。
+
 - taxonomy: 开源自建
   icon: far fa-star
   links:
@@ -66,6 +90,7 @@
       logo: 01234.png
       url: https://github.com/weekend-project-space/fm-online
       description: 一键免费部署自己的在线FM，收听全球广播。
+
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
