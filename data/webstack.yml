@@ -171,10 +171,38 @@
     - term: 谷歌插件
       links:
         - title: AdBlock - 最佳广告拦截工具
-          url:
-          logo:
+          url: https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/mgNKV-3VMXD556WVUiWSbcukQQN-il4Zlqq03efTjG2B5j9YP7Fxr3idTQ_G0JFD7E6o4TMwvTQTleDn_8UdFLf5VQ=w128-h128-e365-rj-sc0x00ffffff
           description: 在YouTube、Facebook、Twitch和其他你喜爱的网站上拦截广告和弹窗。
         - title: 沉浸式翻译
-          url:
-          logo:
+          url: https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/FCCjGNQ3JhLebMSOBdTRV7UP5yMNa9lF5rsJxQ1B4gVcZy5V3vJIdIOh3DO7fCih1JfzIRbAHrxhhXjEUTMKtwdBDA=w128-h128-e365-rj-sc0x00ffffff
           description: 沉浸式网页双语翻译扩展，免费使用，支持 Deepl/Google/有道/腾讯翻译等多个翻译服务。
+        - title: Trancy
+          url: https://chrome.google.com/webstore/detail/ai-translator-and-youtube/mjdbhokoopacimoekfgkcoogikbfgngb?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/kaZOdv81FMwgIz2GHYJgIsx-4_Pqw7s3N_E-YhFLxf8UcxTLQXl6yAwzaAYzF9gO5Qdf1syvIzpv8z30U3DhI8LZPA=w128-h128-e365-rj-sc0x00ffffff
+          description: AI沉浸翻译和YouTube/Netflix双字幕。
+        - title: Relingo
+          url: https://chrome.google.com/webstore/detail/relingo-master-words-from/dpphkcfmnbkdpmgneljgdhfnccnhmfig?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/kxngJpP0fG3Oy3p7SqEOAwkHKuOd_ijzRnReDVER7BKbdYI-QrgOXOSKHacqGtFYwhWD54AtS7TtQ5TKz33oOwBA-Q=w128-h128-e365-rj-sc0x00ffffff
+          description: 基于兴趣，掌握词汇。
+        - title: DeepL翻译
+          url: https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/iXeQzL_4icUm7QIqYFHfpm13HKecoVh8mbaop8_kqEnUiETbYf4wK0C2haqLYAjePlhOxKLjIHpxhH7ufB4KIcKVrA=w128-h128-e365-rj-sc0x00ffffff
+          description: 阅读写作翻译器。
+        - title: Vimium
+          url: https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/iXeQzL_4icUm7QIqYFHfpm13HKecoVh8mbaop8_kqEnUiETbYf4wK0C2haqLYAjePlhOxKLjIHpxhH7ufB4KIcKVrA=w128-h128-e365-rj-sc0x00ffffff
+          description: 阅读写作翻译器。
+        - title: 简悦 - SimpRead
+          url: https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/3fQMRj3gigg_kS0CZoSYdclwWG3rjkhZGAvn7YYD0yXEPkvDfwAcCkZ1uypUmVeRo-IPoxb2ABvP0K8ZvgIr7R3uwzI=w128-h128-e365-rj-sc0x00ffffff
+          description: 让你瞬间进入沉浸式阅读的 Chrome 扩展，类似 Safari 的阅读模式。
+        - title: Omni
+          url: https://chrome.google.com/webstore/detail/omni-bookmark-history-tab/mapjgeachilmcbbokkgcbgpbakaaeehi?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/J7n7qDIrekKpjDDP-oLo03rvP2drIRqOqTDdSK5MyUBhE2UCkYx1LXurAVNA_4lgHCkdZUtnVaEt0SvGed9gaSKhAA=w128-h128-e365-rj-sc0x00ffffff
+          description: 通过简单的命令界面管理标签页、书签和浏览器历史记录，执行各种操作。
+        - title: GitHub Hovercard
+          url: https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/3zBa2H39YA153XrCyPNPiLNBkRXIefijJCSIun4j_xeroNqrwVDEisDgoKVsf510XTHi8Y6RlDRU0QtZICIZFUx1DTA=w128-h128-e365-rj-sc0x00ffffff
+          description: GitHub 的漂亮悬浮卡。
