@@ -35,10 +35,10 @@ key = "4751c36cfce8447fa8cf1b2e19cc1edb"
 favicon = "/assets/images/favicon.ico"
 searchImageL = "/assets/images/bg.jpg"        # 搜索部分浅色背景图
 searchImageD = "/assets/images/bg.jpg"        # 搜索部分深色背景图
-logoExpandLight = "/assets/images/logo.png"
-logoExpandDark = "/assets/images/logo.png"
-logoCollapseLight = "/assets/images/logo.png"
-logoCollapseDark = "/assets/images/logo.png"
+logoExpandLight = "https://avatars.githubusercontent.com/u/9302866?v=4"
+logoExpandDark = "https://avatars.githubusercontent.com/u/9302866?v=4"
+logoCollapseLight = "https://avatars.githubusercontent.com/u/9302866?v=4"
+logoCollapseDark = "https://avatars.githubusercontent.com/u/9302866?v=4"
 
 [markup.goldmark.renderer]
 unsafe = true
