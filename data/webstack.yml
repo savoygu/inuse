@@ -1,6 +1,6 @@
 ---
 - taxonomy: 技术周刊
-  icon: far fa-star
+  icon: fab fa-weebly
   links:
     - title: 科技爱好者周刊
       logo: https://avatars.githubusercontent.com/u/905434?s=48&v=4
@@ -22,74 +22,68 @@
       logo: https://avatars.githubusercontent.com/u/2378632?s=48&v=4
       url: https://www.yuque.com/zenany/fe_weekly
       description: 将日常看到的好东西汇总起来，以备需要时查阅。
+    - title: Node Weekly
+      logo: https://nodeweekly.com/favicon.png
+      url: https://nodeweekly.com/
+      description: 每周一次的免费电子邮件综述，包含 Node.js 新闻和文章。
 
 - taxonomy: 开源自建
   icon: far fa-star
-  links:
-    - title: Cloudreve
-      logo: 'https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png'
-      url: https://github.com/cloudreve/Cloudreve
-      description: 具有多云支持的自托管文件管理系统。
-    - title: youtube-dl
-      logo: github.jpg
-      url: https://github.com/ytdl-org/youtube-dl
-      description: 从 youtube.com 或其他视频平台下载视频。
-    - title: you-get
-      logo: github.jpg
-      url: https://github.com/soimort/you-get
-      description: 用于从 Web 下载媒体内容（视频、音频、图像），以防万一没有其他方便的方法来执行此操作。。
-    - title: mmPlayer
-      logo: QQ音乐.jpg
-      url: https://github.com/maomao1996/Vue-mmPlayer
-      description: mmPlayer 是由茂茂开源的一款在线音乐播放器，具有音乐搜索、播放、歌词显示、播放历史、查看歌曲评论、网易云用户歌单播放同步等功能。
-    - title: nuclear
-      logo: https://camo.githubusercontent.com/3bb53de3e077dd54d2fb2cf66a88f5b680fa6e1ce921b2391715fed7371c7298/68747470733a2f2f692e696d6775722e636f6d2f6f5431303036692e706e67
-      url: https://github.com/nukeop/nuclear
-      description: 专注于从免费资源流式传输的桌面音乐播放器。
-    - title: MyBookshelf
-      logo: github.jpg
-      url: https://github.com/gedoor/MyBookshelf
-      description: 是一款可以自定义网络来源内容的阅读工具。
-    - title: novel
-      logo: github.jpg
-      url: https://github.com/201206030/novel
-      description: 搭建自己的小说网站。
-    - title: RSSHub
-      logo: https://camo.githubusercontent.com/88bea50597d637a4a37515c77fe3bbc826e9481c405772c717ccda414bf6c6b1/68747470733a2f2f646f63732e7273736875622e6170702f6c6f676f2e706e67
-      url: https://github.com/DIYgod/RSSHub
-      description: 一切都是RSSible。
-    - title: top-rss-list
-      logo: github.jpg
-      url: https://github.com/weekend-project-space/top-rss-list
-      description: 中文区优质rss源。
-    - title: FFmpeg
-      logo: github.jpg
-      url: https://github.com/FFmpeg/FFmpeg
-      description: FFmpeg 是用于处理音频、视频、字幕和相关元数据等多媒体内容的库和工具的集合。
-    - title: notea
-      logo: github.jpg
-      url: https://github.com/notea-org/notea
-      description: 存储在 S3 上的自托管笔记应用程序。
-    - title: laverna
-      logo: github.jpg
-      url: https://github.com/Laverna/laverna
-      description: Laverna 是一个 JavaScript 笔记应用程序，具有 Markdown 编辑器和加密支持。将其视为 Evernote 的开源替代品。
-    - title: trilium
-      logo: github.jpg
-      url: https://github.com/zadam/trilium
-      description: 使用 Trilium Notes 建立您的个人知识库。
-    - title: e9x
-      logo: e9x.png
-      url: https://github.com/weekend-project-space/e9x-fun
-      description: 一键免费部署自己的导航。
-    - title: web tv
-      logo: web-tv.png
-      url: https://github.com/weekend-project-space/web-tv
-      description: 一键免费部署自己的在线小电视。
-    - title: web fm
-      logo: 01234.png
-      url: https://github.com/weekend-project-space/fm-online
-      description: 一键免费部署自己的在线FM，收听全球广播。
+  list:
+    - term: 在线服务
+      links:
+        - title: AI Short
+          url: https://aishort.gusaifei.com
+          logo: https://aishort.gusaifei.com/img/logo.svg
+          description: 让生产力加倍的 ChatGPT 快捷指令。
+        - title: ChatGPT Web Next
+          url: https://chat.gusaifei.com
+          logo: https://github.com/savoygu/ChatGPT-Next-Web/raw/main/docs/images/icon.svg
+          description: ChatGPT 网页应用。
+        - title: YesPlayMusic
+          url: https://music.gusaifei.com
+          logo: https://github.com/savoygu/YesPlayMusic/raw/master/images/logo.png
+          description: 高颜值的第三方网易云播放器。
+        - title: Music Player
+          url: https://savoygu.github.io/music-player
+          logo: https://savoygu.github.io/music-player/assets/logo.7722238a.png
+          description: 🎶 在线音乐播放器，一起听音乐吧。
+        - title: Nuxt CNode
+          url: https://nuxt-cnode.gusaifei.com
+          logo: https://github.com/savoygu/nuxt-cnode/raw/main/assets/images/cnodejs-green.svg
+          description: 基于 Nuxt3 (服务器端渲染 SSR) 构建 CNode 社区。
+        - title: Message Wall
+          url: https://message-wall-sage.vercel.app
+          logo: https://message-wall-sage.vercel.app/_nuxt/logo.ce61d15a.svg
+          description: 基于 Nuxt3 构建留言墙。
+        - title: Message Timeline
+          url: https://timeline.gusaifei.com/
+          logo: https://github.githubassets.com/favicons/favicon.svg
+          description: 💌 留言时间轴，记录美好时刻。
+        - title: Midwayjs Hooks Movie
+          url: https://github.com/savoygu/midwayjs-hooks-movie
+          logo: https://github.com/savoygu/midwayjs-hooks-movie/raw/main/assets/images/midwayjs-hooks-movie.jpg
+          description: 基于 Midwayjs 一体化的电影网站 - 全栈项目。
+    - term: 命令行工具
+      links:
+        - title: AI Translator
+          url: https://github.com/savoygu/aitranslator
+          logo: https://github.githubassets.com/favicons/favicon.svg
+          description: 使用 AI 翻译你的话。
+        - title: JSTL to EJS
+          url: https://github.com/savoygu/jstl-to-ejs
+          logo: https://github.githubassets.com/favicons/favicon.svg
+          description: 将 JSTL 转换为 EJS。
+    - term: Vue 生态
+      links:
+        - title: Zuks
+          url: https://zuks.netlify.app/
+          logo: https://github.githubassets.com/favicons/favicon.svg
+          description: Vue 组件库基本组件实用程序集。
+        - title: Laymain
+          url: https://github.com/savoygu/laymain
+          logo: https://github.githubassets.com/favicons/favicon.svg
+          description: 中台布局组件。
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
@@ -100,6 +94,10 @@
           url: https://bundlephobia.com
           logo: https://camo.githubusercontent.com/6d7c0caaea95d540203d18b3a45df0eafe7944b865032132f1a70abb6e93acb5/68747470733a2f2f63646e2e7261776769742e636f6d2f70617374656c736b792f62756e646c6570686f6269612f62756e646c6570686f6269612f636c69656e742f6173736574732f736974652d6c6f676f2e737667
           description: 了解将 npm 软件包添加到 bundle 的成本。
+        - title: pkg-size.dev
+          url: https://pkg-size.dev/
+          logo: https://github.com/privatenumber/pkg-size.dev/raw/develop/.github/logo.svg
+          description: 查找 npm 软件包的真实大小。
         - title: OSS Insight
           url: https://ossinsight.io/
           logo: https://ossinsight.io/img/logo.svg
@@ -170,10 +168,22 @@
           description: 智能 WebP、PNG 和 JPEG 压缩。
     - term: 谷歌插件
       links:
+        - title: Vimium
+          url: https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/iXeQzL_4icUm7QIqYFHfpm13HKecoVh8mbaop8_kqEnUiETbYf4wK0C2haqLYAjePlhOxKLjIHpxhH7ufB4KIcKVrA=w128-h128-e365-rj-sc0x00ffffff
+          description: 阅读写作翻译器。
+        - title: 篡改猴
+          url: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=w128-h128-e365-rj-sc0x00ffffff
+          description: 使用用户脚本自由地改变网络。
         - title: AdBlock - 最佳广告拦截工具
           url: https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/mgNKV-3VMXD556WVUiWSbcukQQN-il4Zlqq03efTjG2B5j9YP7Fxr3idTQ_G0JFD7E6o4TMwvTQTleDn_8UdFLf5VQ=w128-h128-e365-rj-sc0x00ffffff
           description: 在YouTube、Facebook、Twitch和其他你喜爱的网站上拦截广告和弹窗。
+        - title: Proxy SwitchyOmega
+          url: https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/Ar6pRol9XdP7QSJdQPlWUngT111eg-HCjcavM7DVg3UUIuICRhvL6_v0UcIaNt3xLuBsP0_EUww2RftpnWzYgv_MFA=w128-h128-e365-rj-sc0x00ffffff
+          description: 轻松快捷地管理和切换多个代理设置。
         - title: 沉浸式翻译
           url: https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/FCCjGNQ3JhLebMSOBdTRV7UP5yMNa9lF5rsJxQ1B4gVcZy5V3vJIdIOh3DO7fCih1JfzIRbAHrxhhXjEUTMKtwdBDA=w128-h128-e365-rj-sc0x00ffffff
@@ -190,10 +200,6 @@
           url: https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/iXeQzL_4icUm7QIqYFHfpm13HKecoVh8mbaop8_kqEnUiETbYf4wK0C2haqLYAjePlhOxKLjIHpxhH7ufB4KIcKVrA=w128-h128-e365-rj-sc0x00ffffff
           description: 阅读写作翻译器。
-        - title: Vimium
-          url: https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj?utm_source=ext_sidebar&hl=zh-CN
-          logo: https://lh3.googleusercontent.com/iXeQzL_4icUm7QIqYFHfpm13HKecoVh8mbaop8_kqEnUiETbYf4wK0C2haqLYAjePlhOxKLjIHpxhH7ufB4KIcKVrA=w128-h128-e365-rj-sc0x00ffffff
-          description: 阅读写作翻译器。
         - title: 简悦 - SimpRead
           url: https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/3fQMRj3gigg_kS0CZoSYdclwWG3rjkhZGAvn7YYD0yXEPkvDfwAcCkZ1uypUmVeRo-IPoxb2ABvP0K8ZvgIr7R3uwzI=w128-h128-e365-rj-sc0x00ffffff
@@ -206,3 +212,7 @@
           url: https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/3zBa2H39YA153XrCyPNPiLNBkRXIefijJCSIun4j_xeroNqrwVDEisDgoKVsf510XTHi8Y6RlDRU0QtZICIZFUx1DTA=w128-h128-e365-rj-sc0x00ffffff
           description: GitHub 的漂亮悬浮卡。
+        - title: Notifier for GitHub
+          url: https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/uT1iBjlubQWuDJEQBbDm_a9PZAKM8OOA1tl0uo5x-udXsMxRZLlRoyv2hrRFPq9ikquxdWZyTx1gBXppp2yI5yhOOA=w128-h128-e365-rj-sc0x00ffffff
+          description: 显示 GitHub 通知的未读计数。
