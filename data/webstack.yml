@@ -145,7 +145,7 @@
           logo: tinypng.png
           description: 智能 WebP、PNG 和 JPEG 压缩。
 
-- taxonomy: 开发设计
+- taxonomy: 开发工具
   icon: fas fa-tools fa-lg
   list:
     - term: 在线工具
