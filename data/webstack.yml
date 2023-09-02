@@ -3,28 +3,28 @@
   icon: fab fa-weebly
   links:
     - title: 科技爱好者周刊
-      logo: https://avatars.githubusercontent.com/u/905434?s=48&v=4
       url: https://github.com/ruanyf/weekly
+      logo: https://avatars.githubusercontent.com/u/905434?s=48&v=4
       description: 记录每周值得分享的科技内容，周五发布。
     - title: MDH Weekly
+      url: https://mdhweekly.com/weekly
       logo: https://img.alicdn.com/imgextra/i3/O1CN01uKTVpD1UK8BCxFBwo_!!6000000002498-2-tps-500-500.png
-      url: https://github.com/ruanyf/weekly
       description: MDH Weekly 前端周刊，每周一上午 9 点发布。
     - title: 潮流周刊
+      url: https://weekly.tw93.fun
       logo: https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png
-      url: https://weekly.tw93.fun/
       description: 记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注。
     - title: 前端精读周刊
-      logo: https://avatars.githubusercontent.com/u/7970947?s=48&v=4
       url: https://github.com/ascoders/weekly
+      logo: https://avatars.githubusercontent.com/u/7970947?s=48&v=4
       description: 前端精读周刊。帮你理解最前沿、实用的技术。
     - title: Web 技术周刊
-      logo: https://avatars.githubusercontent.com/u/2378632?s=48&v=4
       url: https://www.yuque.com/zenany/fe_weekly
+      logo: https://avatars.githubusercontent.com/u/2378632?s=48&v=4
       description: 将日常看到的好东西汇总起来，以备需要时查阅。
     - title: Node Weekly
+      url: https://nodeweekly.com
       logo: https://nodeweekly.com/favicon.png
-      url: https://nodeweekly.com/
       description: 每周一次的免费电子邮件综述，包含 Node.js 新闻和文章。
 
 - taxonomy: 开源自建
@@ -32,44 +32,42 @@
   list:
     - term: 在线服务
       links:
+        - title: ChatGPT
+          url: https://chat.gusaifei.com
+          logo: https://github.com/savoygu/ChatGPT-Next-Web/raw/main/docs/images/icon.svg
+          description: ChatGPT 网页应用。
         - title: AI Short
           url: https://aishort.gusaifei.com
           logo: https://aishort.gusaifei.com/img/logo.svg
           description: 让生产力加倍的 ChatGPT 快捷指令。
-        - title: ChatGPT Web Next
-          url: https://chat.gusaifei.com
-          logo: https://github.com/savoygu/ChatGPT-Next-Web/raw/main/docs/images/icon.svg
-          description: ChatGPT 网页应用。
         - title: YesPlayMusic
           url: https://music.gusaifei.com
           logo: https://github.com/savoygu/YesPlayMusic/raw/master/images/logo.png
           description: 高颜值的第三方网易云播放器。
-        - title: Music Player
-          url: https://savoygu.github.io/music-player
-          logo: https://savoygu.github.io/music-player/assets/logo.7722238a.png
-          description: 🎶 在线音乐播放器，一起听音乐吧。
-        - title: Nuxt CNode
-          url: https://nuxt-cnode.gusaifei.com
-          logo: https://github.com/savoygu/nuxt-cnode/raw/main/assets/images/cnodejs-green.svg
-          description: 基于 Nuxt3 (服务器端渲染 SSR) 构建 CNode 社区。
+    - term: 在线项目
+      links:
         - title: Message Wall
           url: https://message-wall-sage.vercel.app
           logo: https://message-wall-sage.vercel.app/_nuxt/logo.ce61d15a.svg
-          description: 基于 Nuxt3 构建留言墙。
+          description: 基于 Nuxt3 构建的留言墙。
+        - title: Nuxt CNode
+          url: https://nuxt-cnode.gusaifei.com
+          logo: https://github.com/savoygu/nuxt-cnode/raw/main/assets/images/cnodejs-green.svg
+          description: 基于 Nuxt3 (服务器端渲染 SSR) 构建的 CNode 社区。
+        - title: Music Player
+          url: https://savoygu.github.io/music-player
+          logo: https://savoygu.github.io/music-player/assets/logo.7722238a.png
+          description: 🎶 在线音乐播放器，我们一起来听音乐吧。
         - title: Message Timeline
-          url: https://timeline.gusaifei.com/
+          url: https://timeline.gusaifei.com
           logo: https://github.githubassets.com/favicons/favicon.svg
           description: 💌 留言时间轴，记录美好时刻。
-        - title: Midwayjs Hooks Movie
-          url: https://github.com/savoygu/midwayjs-hooks-movie
-          logo: https://github.com/savoygu/midwayjs-hooks-movie/raw/main/assets/images/midwayjs-hooks-movie.jpg
-          description: 基于 Midwayjs 一体化的电影网站 - 全栈项目。
-    - term: 命令行工具
+    - term: 命令工具
       links:
         - title: AI Translator
           url: https://github.com/savoygu/aitranslator
           logo: https://github.githubassets.com/favicons/favicon.svg
-          description: 使用 AI 翻译你的话。
+          description: 使用 AI 翻译你想说的话。
         - title: JSTL to EJS
           url: https://github.com/savoygu/jstl-to-ejs
           logo: https://github.githubassets.com/favicons/favicon.svg
@@ -85,53 +83,79 @@
           logo: https://github.githubassets.com/favicons/favicon.svg
           description: 中台布局组件。
 
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
+- taxonomy: 在线网站
+  icon: fad fa-browser
   list:
-    - term: 在线工具
+    - term: NPM 探索
       links:
         - title: bundlephobia
           url: https://bundlephobia.com
           logo: https://camo.githubusercontent.com/6d7c0caaea95d540203d18b3a45df0eafe7944b865032132f1a70abb6e93acb5/68747470733a2f2f63646e2e7261776769742e636f6d2f70617374656c736b792f62756e646c6570686f6269612f62756e646c6570686f6269612f636c69656e742f6173736574732f736974652d6c6f676f2e737667
           description: 了解将 npm 软件包添加到 bundle 的成本。
         - title: pkg-size.dev
-          url: https://pkg-size.dev/
+          url: https://pkg-size.dev
           logo: https://github.com/privatenumber/pkg-size.dev/raw/develop/.github/logo.svg
           description: 查找 npm 软件包的真实大小。
+        - title: npmgraph
+          url: https://npmgraph.js.org
+          logo: https://npmgraph.js.org/favicon.1b75a10a.png
+          description: NPM 包可视化依赖关系。
+    - term: 在线工具
+      links:
         - title: OSS Insight
-          url: https://ossinsight.io/
+          url: https://ossinsight.io
           logo: https://ossinsight.io/img/logo.svg
           description: Open Source Software Insight
         - title: Tooling.Report
           url: https://bundlers.tooling.report/
           logo: https://bundlers.tooling.report/apple-touch-icon-6d4d3a0c.png
-          description: 它是一种快速方法，可帮助您确定下一个网络项目的最佳构建工具，或确定工具迁移是否值得，或确定如何在现有配置和代码库中采用工具的最佳实践。
+          description: 快速确定下一个网络项目的最佳构建工具的方法，或确定工具迁移是否值得，或确定如何在现有配置和代码库中采用工具的最佳实践。
         - title: shields
-          url: https://shields.io/
+          url: https://shields.io
           logo: https://shields.io/img/logo.png
           description: 简明、一致、清晰的徽章。
-        - title: markdown 编辑器
-          url: https://markdown.com.cn/editor/
+        - title: Markdown 编辑器
+          url: https://markdown.com.cn/editor
           logo: https://markdown.com.cn/editor/favicon.svg
-          description: 在线markdown编辑器_微信公众号markdown排版工具。
+          description: 在线 Markdown 编辑器_微信公众号 Markdown 排版工具。
     - term: 在线 API
       links:
         - title: JSON Placeholder
-          url: https://jsonplaceholder.typicode.com/
+          url: https://jsonplaceholder.typicode.com
           logo: https://jsonplaceholder.typicode.com/favicon.ico
           description: 用于测试和原型开发的免费虚假应用程序接口。
         - title: Unsplash Developers
           url: https://unsplash.com/documentation
           logo: https://unsplash.com/apple-touch-icon.png
           description: 使用最大的开放式高质量照片集进行创作。
-    - term: 开发工具
+    - term: 主题字体
+      links:
+        - title: Dev Fonts
+          url: https://devfonts.gafi.dev
+          logo: https://devfonts.gafi.dev/apple-touch-icon.png
+          description: 带实时预览的最佳编码字体列表。
+        - title: VSCode Themes
+          url: https://vscodethemes.com
+          logo: https://vscodethemes.com/favicon.ico
+          description: 从 VSCode Marketplace 搜索并预览主题。
+    - term: 图像处理
+      links:
+        - title: tinypng
+          url: https://tinypng.com
+          logo: tinypng.png
+          description: 智能 WebP、PNG 和 JPEG 压缩。
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list:
+    - term: 在线工具
       links:
         - title: regulex
           url: https://jex.im/regulex
           logo: https://jex.im/favicon.ico
           description: JavaScript 正则表达式可视化工具。
         - title: AST Explorer
-          url: https://astexplorer.net/
+          url: https://astexplorer.net
           logo: https://astexplorer.net/favicon.png
           description: 探索各种解析器生成的 AST 的网络工具。
         - title: Vue Template Explorer
@@ -147,25 +171,9 @@
           logo: https://www.toptal.com/developers/gitignore/favicon.ico
           description: 为你的项目创建必要的 .gitignore 文件。
         - title: MIT license
-          url: https://choosealicense.com/licenses/mit/
+          url: https://choosealicense.com/licenses/mit
           logo: https://choosealicense.com/favicon.ico
           description: 这是一种简短的许可协议，只要求保留版权和许可声明。许可作品、修改和更大的作品可以根据不同的条款进行发布，并且不带源代码。
-    - term: 主题字体
-      links:
-        - title: Dev Fonts
-          url: https://devfonts.gafi.dev
-          logo: https://devfonts.gafi.dev/apple-touch-icon.png
-          description: 带实时预览的最佳编码字体列表。
-        - title: VSCode Themes
-          url: https://vscodethemes.com
-          logo: https://vscodethemes.com/favicon.ico
-          description: 从 VS Code Marketplace 搜索并预览主题。
-    - term: 图像处理
-      links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: 智能 WebP、PNG 和 JPEG 压缩。
     - term: 谷歌插件
       links:
         - title: Vimium
@@ -191,7 +199,7 @@
         - title: Trancy
           url: https://chrome.google.com/webstore/detail/ai-translator-and-youtube/mjdbhokoopacimoekfgkcoogikbfgngb?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/kaZOdv81FMwgIz2GHYJgIsx-4_Pqw7s3N_E-YhFLxf8UcxTLQXl6yAwzaAYzF9gO5Qdf1syvIzpv8z30U3DhI8LZPA=w128-h128-e365-rj-sc0x00ffffff
-          description: AI沉浸翻译和YouTube/Netflix双字幕。
+          description: AI 沉浸翻译和 YouTube/Netflix 双字幕。
         - title: Relingo
           url: https://chrome.google.com/webstore/detail/relingo-master-words-from/dpphkcfmnbkdpmgneljgdhfnccnhmfig?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/kxngJpP0fG3Oy3p7SqEOAwkHKuOd_ijzRnReDVER7BKbdYI-QrgOXOSKHacqGtFYwhWD54AtS7TtQ5TKz33oOwBA-Q=w128-h128-e365-rj-sc0x00ffffff
