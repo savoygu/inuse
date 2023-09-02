@@ -84,7 +84,7 @@
           description: 中台布局组件。
 
 - taxonomy: 在线网站
-  icon: fad fa-browser
+  icon: fas fa-sitemap
   list:
     - term: NPM 探索
       links:
@@ -177,9 +177,9 @@
     - term: 谷歌插件
       links:
         - title: Vimium
-          url: https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj?utm_source=ext_sidebar&hl=zh-CN
-          logo: https://lh3.googleusercontent.com/iXeQzL_4icUm7QIqYFHfpm13HKecoVh8mbaop8_kqEnUiETbYf4wK0C2haqLYAjePlhOxKLjIHpxhH7ufB4KIcKVrA=w128-h128-e365-rj-sc0x00ffffff
-          description: 阅读写作翻译器。
+          url: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?utm_source=ext_sidebar&hl=zh-CN
+          logo: https://lh3.googleusercontent.com/iooXARzyoB-z2fUt3Ixcczai8n7F1CjREDIBQV-_as_tYIKrNjOMX63Kfp0OCT7umeebS1BfxpqTKJIWaIJJqxSn=w128-h128-e365-rj-sc0x00ffffff
+          description: Vimium 秉承 Vim 的精神，为导航和控制提供键盘快捷键。
         - title: 篡改猴
           url: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=ext_sidebar&hl=zh-CN
           logo: https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=w128-h128-e365-rj-sc0x00ffffff
