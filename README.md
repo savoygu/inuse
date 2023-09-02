@@ -81,7 +81,7 @@
 
 #### 谷歌插件
 
-- <img src="https://lh3.googleusercontent.com/iXeQzL_4icUm7QIqYFHfpm13HKecoVh8mbaop8_kqEnUiETbYf4wK0C2haqLYAjePlhOxKLjIHpxhH7ufB4KIcKVrA=w128-h128-e365-rj-sc0x00ffffff" width="14" height="14" /> [Vimium](https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj?utm_source=ext_sidebar&hl=zh-CN) 阅读写作翻译器。
+- <img src="https://lh3.googleusercontent.com/iooXARzyoB-z2fUt3Ixcczai8n7F1CjREDIBQV-_as_tYIKrNjOMX63Kfp0OCT7umeebS1BfxpqTKJIWaIJJqxSn=w128-h128-e365-rj-sc0x00ffffff" width="14" height="14" /> [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?utm_source=ext_sidebar&hl=zh-CN) Vimium 秉承 Vim 的精神，为导航和控制提供键盘快捷键。
 - <img src="https://lh3.googleusercontent.com/zoY8FwoOqPlBgFxcmFdNSK2Q4CcLmv-gw7vTjF2KMR9cEabwBsGNrHBTEMitn0Ba6OmCVJ0NcLnFGu3N97BP8Phu0g=w128-h128-e365-rj-sc0x00ffffff" width="14" height="14" /> [篡改猴](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=ext_sidebar&hl=zh-CN) 使用用户脚本自由地改变网络。
 - <img src="https://lh3.googleusercontent.com/mgNKV-3VMXD556WVUiWSbcukQQN-il4Zlqq03efTjG2B5j9YP7Fxr3idTQ_G0JFD7E6o4TMwvTQTleDn_8UdFLf5VQ=w128-h128-e365-rj-sc0x00ffffff" width="14" height="14" /> [AdBlock - 最佳广告拦截工具](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?utm_source=ext_sidebar&hl=zh-CN) 在YouTube、Facebook、Twitch和其他你喜爱的网站上拦截广告和弹窗。
 - <img src="https://lh3.googleusercontent.com/Ar6pRol9XdP7QSJdQPlWUngT111eg-HCjcavM7DVg3UUIuICRhvL6_v0UcIaNt3xLuBsP0_EUww2RftpnWzYgv_MFA=w128-h128-e365-rj-sc0x00ffffff" width="14" height="14" /> [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?utm_source=ext_sidebar&hl=zh-CN) 轻松快捷地管理和切换多个代理设置。
@@ -95,7 +95,7 @@
 - <img src="https://lh3.googleusercontent.com/uT1iBjlubQWuDJEQBbDm_a9PZAKM8OOA1tl0uo5x-udXsMxRZLlRoyv2hrRFPq9ikquxdWZyTx1gBXppp2yI5yhOOA=w128-h128-e365-rj-sc0x00ffffff" width="14" height="14" /> [Notifier for GitHub](https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn?utm_source=ext_sidebar&hl=zh-CN) 显示 GitHub 通知的未读计数。
 <!--WEB_STACK_ENDS-->
 
-## 部署自己的导航
+## 部署导航
 
 一键部署到 Vercel
 
